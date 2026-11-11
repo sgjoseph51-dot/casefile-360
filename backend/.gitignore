@@ -1,0 +1,4 @@
+# Uploaded evidence copies are working files, not source code
+uploads/
+# The database is rebuilt from database/schema.sql
+*.db
